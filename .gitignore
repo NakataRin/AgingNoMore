@@ -427,3 +427,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Folder for original .dll files
+[Gg]ame[Rr]efs/
